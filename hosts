@@ -3026,6 +3026,8 @@ fe80::1%lo0	localhost
 220.255.2.153	abc.xyz
 64.233.191.121	www.androidexperiments.com
 64.233.191.121	androidexperiments.com
+220.255.2.153 cdn.ampproject.org
+220.255.2.153 ampproject.org
 # Google:others End
 
 # Gmail SMTP/POP/IMAP Start
