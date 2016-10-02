@@ -2999,6 +2999,7 @@ fe80::1%lo0	localhost
 220.255.2.153	www.google.vg
 220.255.2.153	www.google.vu
 220.255.2.153	www.google.ws
+216.239.34.21 blog.google
 220.255.2.153	foobar.withgoogle.com
 220.255.2.153	interstellar.withgoogle.com
 220.255.2.153	edudirectory.withgoogle.com
